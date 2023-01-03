@@ -21,19 +21,16 @@ To get the project up and running on your local machine, follow these steps:
 
 git clone https://github.com/SleekGeek-254/CHATBOT-V1.git
 
-Copy code
 
 2. Navigate to the `client` directory:
 
 cd CHATBOT-V1/client
 
-Copy code
 
 3. Install the dependencies:
 
 npm install
 
-Copy code
 
 ### Running the App
 
@@ -41,7 +38,6 @@ To start the development server, run:
 
 npm start
 
-Copy code
 
 This will start the development server at `http://localhost:3000`.
 
